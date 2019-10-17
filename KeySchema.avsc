@@ -1,0 +1,10 @@
+{
+  "type" : "record",
+  "name" : "test_kafka_alp",
+  "namespace" : "com.mycompany",
+  "fields" : [ {
+    "name" : "id",
+    "type" : "long"
+  }
+]
+}
